@@ -38,5 +38,20 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMachon/tf2-loadout-rng.git"
+  },
+  "author": "TMachon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TMachon/tf2-loadout-rng/issues"
+  },
+  "homepage": "https://github.com/TMachon/tf2-loadout-rng#readme",
+  "engines": {
+    "node": "14.x"
+  }
 }

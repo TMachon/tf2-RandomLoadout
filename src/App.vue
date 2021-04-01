@@ -5,7 +5,7 @@
   </div>
 </template>
 
-<script>
+<script type="module">
 import MainPage from './components/MainPage.vue'
 
 export default {

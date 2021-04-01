@@ -3,7 +3,7 @@
         <button v-on:click="reload"> RNG </button>
         <h3>Class: {{cla}}</h3>
         <div v-if="cla==='Spy'">
-            <h3>Gun: {{firstW}}</h3>
+            <h3>Gun : {{firstW}}</h3>
             <h3>Melee: {{secondW}}</h3>
             <h3>Watch: {{thirdW}}</h3>
             <h3>Sapper: {{forthW}}</h3>
